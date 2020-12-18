@@ -1,0 +1,3 @@
+com\eAppInformation\controller\EAppInformationController.class
+com\eAppInformation\model\Information.class
+com\eAppInformation\service\EAppInformationService.class
